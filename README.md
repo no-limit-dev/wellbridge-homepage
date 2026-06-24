@@ -233,17 +233,6 @@ PM2를 활용하여 서버 프로세스를 관리하고, 관리자 페이지 내
 
 ---
 
-### 📈 서버 모니터링 및 로그 관리
-
-![Monitoring](./assets/monitoring.png)
-
-* PM2 프로세스 상태 조회
-* CPU / Memory 사용량 확인
-* Uptime 및 Restart Count 조회
-* 관리자 페이지 내 로그 조회 기능 제공
-
----
-
 ## 8. 결과 및 회고
 
 ### 📈 결과
